@@ -1,0 +1,1 @@
+Designed to harvest the vocab practice from Busuu.com's [vocab page](https://www.busuu.com/dashboard/review) and transform it into a txt that can be ingested as an Anki deck. Free version of one of the major paid features of Busuu :)
